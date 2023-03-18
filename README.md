@@ -1,4 +1,4 @@
-# react-hooks
+# React con Hooks
 Implementacion de react con hooks en la que se enlistan mensajes en una tabla.
 
 
