@@ -4,6 +4,7 @@ Implementación de react con hooks en la que se enlistan mensajes en una tabla. 
 
 [![1-1.png](https://i.postimg.cc/3J119crf/1-1.png)](https://postimg.cc/8jFLzw6L)
 
+Cuenta con validaciones (sin ocupar librerias externas).
 
 [![1.png](https://i.postimg.cc/6pQ0PfyW/1.png)](https://postimg.cc/GHZG8YFV)
 
