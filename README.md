@@ -1,5 +1,5 @@
 # React con Hooks
-Implementacion de react con hooks en la que se enlistan mensajes en una tabla.
+Implementacion de react con hooks en la que se enlistan mensajes en una tabla. El proyecto se debe desplegar en un servidor Nginx para revisar su funcionamiento.
 
 
 [![1-1.png](https://i.postimg.cc/3J119crf/1-1.png)](https://postimg.cc/8jFLzw6L)
